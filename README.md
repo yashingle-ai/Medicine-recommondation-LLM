@@ -1,4 +1,4 @@
-# Financial Query System
+# medicine Query System
 
 A comprehensive financial query system that integrates Retrieval-Augmented Generation (RAG) for real-time analysis using locally deployed Large Language Models. The system provides instant answers to insurance and banking queries.
 
@@ -13,7 +13,7 @@ A comprehensive financial query system that integrates Retrieval-Augmented Gener
 
 ## Overview
 
-The Financial Query System leverages advanced AI models to provide detailed responses to user queries related to insurance and banking. It uses a combination of local LLMs and vector databases to retrieve and generate accurate information.
+The medicine Query System leverages advanced AI models to provide detailed responses to user queries related to medicines and uses of medicines . It uses a combination of local LLMs and vector databases to retrieve and generate accurate information.
 
 ## System Architecture
 
