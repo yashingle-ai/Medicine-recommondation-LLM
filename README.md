@@ -1,4 +1,5 @@
 # medicine Query System
+# medicine Query System
 
 A comprehensive financial query system that integrates Retrieval-Augmented Generation (RAG) for real-time analysis using locally deployed Large Language Models. The system provides instant answers to insurance and banking queries.
 
