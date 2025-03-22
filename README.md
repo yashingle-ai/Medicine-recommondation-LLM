@@ -127,4 +127,6 @@ pip install -r requirements.txt
 
 For any questions or support, please contact:
 
+
 - **Deep Das**: deepdblm@gmail.com
+- **yash ingle**: yash.ingle003@gmail.com
